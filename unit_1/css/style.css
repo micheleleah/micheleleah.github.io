@@ -3,5 +3,9 @@ body {
 }
 
 h1, p {
-    color: midnightblue; font: Courier
+    color: midnightblue;
+}
+
+h1, p {
+    font-style: open sans
 }
